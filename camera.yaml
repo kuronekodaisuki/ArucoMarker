@@ -1,0 +1,11 @@
+%YAML:1.0
+---
+image_width:800
+image_height:600
+focus_length:4.8
+pixel_size:0.00413
+distortion_coeffs: !!opencv_matrix
+    rows:0
+    cols:0
+    dt:d
+    data:[]
